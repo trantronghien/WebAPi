@@ -1,0 +1,16 @@
+{
+    "oldVersion": 18,
+    "newVersion": 19,
+    "message": "có version mới (khả dụng)",
+    "newVol": {
+        "ZSVOL": 64,
+        "ZSNAME": "Vol 64",
+        "ZSMANUFACTURE": 1,
+        "ZSLANGUAGE": "vn",
+        "Version": "N "
+    },
+    "RetCode": 0,
+    "ErrorMess": "Thành Công",
+    "ObjectType": "GetNewController",
+    "StatusCode": 200
+}
