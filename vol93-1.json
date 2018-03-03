@@ -1,8 +1,8 @@
 {"version": 0,
     "newVol": 0,
     "TotalRow": 30,
-    "idTable": 1,
-    "type": "SongArirang",
+    "idTable": 3,
+    "type": "SongMusiccore",
     "listData":[
       {"id":0,"ENT":2,"OPT":1,"ZROWID":68557,"ZSVOL":93,"ZSABBR":"axvlcn","ZSLANGUAGE":"vn","ZSLYRIC":"Người vọng phu…","ZSLYRICCLEAN":"nguoi vong phu","ZSMANUFACTURE":"1","ZSMETA":"Tân Nhạc: Lê Thương\\nCổ Nhạc: Viễn Châu","ZSMETACLEAN":"tan nhac: le thuong co nhac: vien chau","ZSNAME":"AI XUÔI VẠN LÝ (CỔ NHẠC)","ZSNAMECLEAN":"ai xuoi van ly co nhac","ZYOUTUBE":"","FAVORITE":0,"CATEGORY":2},
 {"id":0,"ENT":2,"OPT":1,"ZROWID":69195,"ZSVOL":93,"ZSABBR":"acer","ZSLANGUAGE":"vn","ZSLYRIC":"Anh ngồi suy nghĩ về chuyện tình đôi ta…","ZSLYRICCLEAN":"anh ngoi suy nghi ve chuyen tinh doi ta","ZSMANUFACTURE":"1","ZSMETA":"KHẮC VIỆT","ZSMETACLEAN":"khac viet","ZSNAME":"ANH CẦN EM - REMIX","ZSNAMECLEAN":"anh can em remix","ZYOUTUBE":"","FAVORITE":0,"CATEGORY":0},
