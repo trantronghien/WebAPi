@@ -1,11 +1,11 @@
 {
-    "oldVersion": 18,
-    "newVersion": 19,
+    "oldVersion": 19,
+    "newVersion": 20,
     "message": "có version mới (khả dụng)",
     "newVol": {
-        "ZSVOL": 64,
-        "ZSNAME": "Vol 64",
-        "ZSMANUFACTURE": 1,
+        "ZSVOL": 93,
+        "ZSNAME": "Vol 93",
+        "ZSMANUFACTURE": 3,
         "ZSLANGUAGE": "vn",
         "Version": "N "
     },
